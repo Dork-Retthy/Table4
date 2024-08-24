@@ -1,0 +1,40 @@
+table{
+    border: solid #ddd;
+    margin: 20px auto;
+    width: 80%;
+    border-collapse: collapse;
+    box-shadow: 0 4px 8pc rgb(0, 0, 0, 0.1);
+    border-radius: 5px;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+}
+th{
+    background-color: green;
+    text-align: left;
+}
+th, td{
+    padding: 10px;
+    border: none;
+   
+}
+.one{
+    background-color: red;
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin: 1px;
+    width: 30%;
+}
+button{
+    background-color: rgb(0, 140, 255);
+    color: #fff;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    margin: 1px;
+    width: 20%;
+}
+tr{
+    border: 1px solid #ddd;
+}
